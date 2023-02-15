@@ -31,7 +31,7 @@ string dz3(int a)
 // }
 
 Console.WriteLine("Добро пожаловать в домашнее задание 1 семинара");
-Console.Write("Введите номер задания: ");
+Console.Write("Введите номер задания в их порядке: ");
 int dz = Convert.ToInt32(Console.ReadLine());
 if (dz == 1)
 {
