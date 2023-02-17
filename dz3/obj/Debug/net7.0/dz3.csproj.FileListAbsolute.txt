@@ -1,0 +1,15 @@
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\bin\Debug\net7.0\dz3.exe
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\bin\Debug\net7.0\dz3.deps.json
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\bin\Debug\net7.0\dz3.runtimeconfig.json
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\bin\Debug\net7.0\dz3.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\bin\Debug\net7.0\dz3.pdb
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.csproj.AssemblyReference.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.AssemblyInfoInputs.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.AssemblyInfo.cs
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.csproj.CoreCompileInputs.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\refint\dz3.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.pdb
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\dz3.genruntimeconfig.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\dz3\obj\Debug\net7.0\ref\dz3.dll
