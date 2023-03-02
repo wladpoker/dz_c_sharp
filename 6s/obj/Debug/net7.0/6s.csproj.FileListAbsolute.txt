@@ -1,0 +1,15 @@
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\bin\Debug\net7.0\6s.exe
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\bin\Debug\net7.0\6s.deps.json
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\bin\Debug\net7.0\6s.runtimeconfig.json
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\bin\Debug\net7.0\6s.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\bin\Debug\net7.0\6s.pdb
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.csproj.AssemblyReference.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.AssemblyInfoInputs.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.AssemblyInfo.cs
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.csproj.CoreCompileInputs.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\refint\6s.dll
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.pdb
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\6s.genruntimeconfig.cache
+C:\Users\Wladgoose\Desktop\dz_c_sharp\6s\obj\Debug\net7.0\ref\6s.dll
